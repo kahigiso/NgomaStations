@@ -3,7 +3,7 @@
     <station>
         <priority>1</priority>
         <name>Flash FM</name>
-        <url>http://imbaraga2.primcast.com:9482/;&lang=auto&codec=mp3&volume=100&introurl=&autoplay=true&tracking=true&jsevents=false&buffering=5&skin=http://www.flashfm.rw//modules/mod_shoutcastplayer/ffmp3-compact.xml&title=Radio%20Flash%2089.2%20fm</url>
+        <url>http://imbaraga2.primcast.com:9482/;&amp;lang=auto&amp;codec=mp3&amp;volume=100&amp;introurl=&amp;autoplay=true&amp;tracking=true&amp;jsevents=false&amp;buffering=5&amp;skin=http://www.flashfm.rw//modules/mod_shoutcastplayer/ffmp3-compact.xml&amp;title=Radio%20Flash%2089.2%20fm</url>
         <icon>undefined</icon>
         <frequency></frequency>
     </station>
