@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NgomaStations>
+    <station>
+        <priority>1</priority>
+        <name>Flash FM</name>
+        <url>http://imbaraga2.primcast.com:9482/;&lang=auto&codec=mp3&volume=100&introurl=&autoplay=true&tracking=true&jsevents=false&buffering=5&skin=http://www.flashfm.rw//modules/mod_shoutcastplayer/ffmp3-compact.xml&title=Radio%20Flash%2089.2%20fm</url>
+        <icon>undefined</icon>
+        <frequency></frequency>
+    </station>
+    <station>
+        <priority>2</priority>
+        <name>Kigali Today</name>
+        <url>http://70.87.43.26:8000/;stream.mp3&amp;13916693258&amp;duration=99999&amp;id=scplayer&amp;autostart=true</url>
+        <icon>undefined</icon>
+        <frequency></frequency>
+    </station>
+    <station>
+        <priority>3</priority>
+        <name>Radio Salus</name>
+        <url>http://salus.nur.ac.rw:8006/saluslive</url>
+        <icon>undefined</icon>
+        <frequency></frequency>
+    </station>
+    <station>
+        <priority>4</priority>
+        <name>Magic FM</name>
+        <url>http://85.25.164.57:80/;</url>
+        <icon>undefined</icon>
+        <frequency></frequency>
+    </station>
+
+    <station>
+        <priority>5</priority>
+        <name>Radio Maria</name>
+        <url>http://50.7.181.186:8044/;</url>
+        <icon>undefined</icon>
+        <frequency></frequency>
+    </station>
+
+    <station>
+        <priority>6</priority>
+        <name>Radio Rwanda</name>
+        <url></url>
+        <icon>undefined</icon>
+        <frequency></frequency>
+    </station>
+
+    <station>
+        <priority>7</priority>
+        <name>Radio 10</name>
+        <url></url>
+        <icon>undefined</icon>
+        <frequency></frequency>
+    </station>
+
+    <station>
+        <priority>8</priority>
+        <name>Isango star</name>
+        <url></url>
+        <icon>undefined</icon>
+        <frequency></frequency>
+    </station>
+
+</NgomaStations>
